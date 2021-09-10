@@ -2,8 +2,8 @@
 
 ## 虚拟电脑下载地址
 
-百度网盘：https://pan.baidu.com/s/1iIwjCswnDFoJM27qPSUiuw 
-提取码：kbf2 
+百度网盘：https://pan.baidu.com/s/1_MEPjs-K8Q0561IT0JE_hw 
+提取码：vlrg
 
 ## 使用方法
 
