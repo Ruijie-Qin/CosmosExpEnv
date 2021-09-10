@@ -24,6 +24,7 @@
    ![1631260360132](Pic/1631260360132.png)
    
 3. 运行虚拟机
+   
    3.1 **用户名：cosmos，密码：123456，root用户密码：123456**
    
    3.2 桌面上有文件夹cosmos，对应git地址：https://gitee.com/lmos/cosmos.git
